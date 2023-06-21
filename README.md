@@ -1,1 +1,1 @@
-# rust-ds-algo
+# Hands-On Data Structures and Algorithms with Rust
